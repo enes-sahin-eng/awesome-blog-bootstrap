@@ -1,0 +1,33 @@
+.navbar {
+  background: #085e7d !important;
+}
+#header-img {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 400px;
+  height: 200px;
+}
+
+#footer {
+  background-color: #085e7d !important;
+}
+.Category {
+  text-decoration: none !important;
+  color: black !important;
+}
+.pageNumbers a {
+  text-decoration: none !important;
+}
+.bg-dark {
+  background: #085e7d !important;
+}
+.bgg {
+  background: #085e7d !important;
+}
+#map {
+  height: 450px;
+}
+@media (min-width: 768px) {
+  #map {
+    height: 100%;
+  }
+}
