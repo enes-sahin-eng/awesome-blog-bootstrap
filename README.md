@@ -1,7 +1,7 @@
-https://softwaredevelooper.github.io/awesome-blog-bootstrap/docs/index.html
+
 
 # Blog Website Project / Blog Web Sitesi
-
+https://enes-sahin-eng.github.io/awesome-blog-bootstrap/docs/index.html
 ## 🇬🇧 English
 
 Responsive blog website built with Bootstrap 5.
